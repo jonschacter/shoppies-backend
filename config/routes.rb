@@ -5,5 +5,6 @@ Rails.application.routes.draw do
   get "/current_user", to: "sessions#show"
   post "/signup", to: "users#create"
 
-  resources :nominees, only: [:index]
+  delete "/nominees", to: "nominees#destroy"
+  resources :nominees, only: [:index, :create]
 end
