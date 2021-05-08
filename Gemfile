@@ -17,7 +17,7 @@ gem 'puma', '~> 5.0'
 gem 'bcrypt', '~> 3.1.7'
 gem 'json'
 gem 'active_model_serializers'
-# gem 'rails_same_site_cookie'
+gem 'rails_same_site_cookie'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
