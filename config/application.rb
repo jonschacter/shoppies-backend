@@ -38,6 +38,6 @@ module JschacterShoppiesBackend
     config.api_only = true
 
     config.middleware.use ActionDispatch::Cookies
-    config.middleware.use ActionDispatch::Session::CookieStore, key: '_shoppies'
+    config.middleware.use ActionDispatch::Session::CookieStore, key: '_shoppies_session_id'
   end
 end
