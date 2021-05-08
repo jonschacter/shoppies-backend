@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Related repositories
 
-Things you may want to cover:
+[Shoppies Frontend](https://github.com/jonschacter/shoppies)
 
-* Ruby version
+## Live Deployment
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Shoppies - Heroku Build](http://jschacter-shoppies.herokuapp.com/)
